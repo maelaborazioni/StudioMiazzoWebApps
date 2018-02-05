@@ -1,0 +1,11 @@
+allowCreationRelatedRecords:false,
+existsInDB:true,
+foreignDataSource:"db:/ma_presenze/e2regolecompensazione",
+items:[
+{foreignColumnName:"idregolecompensazione",operator:0,primaryDataProviderID:"idregolecompensazione",typeid:23,uuid:"0F17AE8C-4A94-45E5-9F96-C5D60C8F7A5D"}
+],
+joinType:0,
+name:"e2regolecompensazioneeventi_to_e2regolecompensazione",
+primaryDataSource:"db:/ma_presenze/e2regolecompensazioneeventi",
+typeid:22,
+uuid:"F5D2D866-BE84-40D6-B2A4-C4B1978AD343"

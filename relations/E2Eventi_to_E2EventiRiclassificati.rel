@@ -1,0 +1,11 @@
+allowCreationRelatedRecords:true,
+existsInDB:true,
+foreignDataSource:"db:/ma_presenze/e2eventiriclassificati",
+items:[
+{foreignColumnName:"ideventoriclassificato",operator:0,primaryDataProviderID:"ideventoriclassificato",typeid:23,uuid:"50D9D097-9272-4037-87D4-63B8F118A046"}
+],
+joinType:0,
+name:"E2Eventi_to_E2EventiRiclassificati",
+primaryDataSource:"db:/ma_presenze/e2eventi",
+typeid:22,
+uuid:"91C474CB-0CEB-485E-9EA7-A593F704B0B3"

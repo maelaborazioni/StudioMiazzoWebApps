@@ -1,0 +1,11 @@
+allowCreationRelatedRecords:true,
+existsInDB:true,
+foreignDataSource:"db:/ma_presenze/e2dcg_campi",
+items:[
+{foreignColumnName:"iddcg_campi",operator:0,primaryDataProviderID:"iddcg_campi",typeid:23,uuid:"9AB57B7C-A206-4A2C-B76F-B97317ED6D82"}
+],
+joinType:0,
+name:"E2DCG_CampiAgg_to_E2DCG_Campi",
+primaryDataSource:"db:/ma_presenze/e2dcg_campiagg",
+typeid:22,
+uuid:"D2A6AD52-9263-4D1D-9194-A00EB0E884F1"

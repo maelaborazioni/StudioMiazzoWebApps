@@ -1,0 +1,11 @@
+allowCreationRelatedRecords:true,
+existsInDB:true,
+foreignDataSource:"db:/ma_presenze/e2gestionediroratesta",
+items:[
+{foreignColumnName:"idgestionediroratesta",operator:0,primaryDataProviderID:"idgestionediroratesta",typeid:23,uuid:"5F7C58AB-FDBB-400F-B481-5DF4F8B59681"}
+],
+joinType:0,
+name:"E2GestioneDirOraRighe2_to_E2GestioneDirOraTesta",
+primaryDataSource:"db:/ma_presenze/e2gestionedirorarighe2",
+typeid:22,
+uuid:"36F3849A-979B-4E89-8FE0-BDCE8AD0AB0B"

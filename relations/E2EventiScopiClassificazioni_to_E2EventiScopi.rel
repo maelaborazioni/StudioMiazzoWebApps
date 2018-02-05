@@ -1,0 +1,11 @@
+allowCreationRelatedRecords:true,
+existsInDB:true,
+foreignDataSource:"db:/ma_presenze/e2eventiscopi",
+items:[
+{foreignColumnName:"ideventiscopi",operator:0,primaryDataProviderID:"ideventiscopi",typeid:23,uuid:"351D3CB6-930C-4FF6-9717-0AF55AEFBC6C"}
+],
+joinType:0,
+name:"E2EventiScopiClassificazioni_to_E2EventiScopi",
+primaryDataSource:"db:/ma_presenze/e2eventiscopiclassificazioni",
+typeid:22,
+uuid:"DF2ABABA-473E-4C1F-BF6D-775787340EEF"

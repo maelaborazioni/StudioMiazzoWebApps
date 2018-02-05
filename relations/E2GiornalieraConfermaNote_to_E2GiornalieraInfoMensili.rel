@@ -1,0 +1,11 @@
+allowCreationRelatedRecords:true,
+existsInDB:true,
+foreignDataSource:"db:/ma_presenze/e2giornalierainfomensili",
+items:[
+{foreignColumnName:"idinfomensili",operator:0,primaryDataProviderID:"idinfomensili",typeid:23,uuid:"723FF8AD-33B1-445D-991A-1091EDC29975"}
+],
+joinType:0,
+name:"E2GiornalieraConfermaNote_to_E2GiornalieraInfoMensili",
+primaryDataSource:"db:/ma_presenze/e2giornalieraconfermanote",
+typeid:22,
+uuid:"ED6C9B16-11E2-4914-B46E-AA7BCA63E42F"

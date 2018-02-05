@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildpath>
+	<buildpathentry excluding=".stp/|medias/" kind="src" path=""/>
+	<buildpathentry exported="true" kind="prj" path="/Autorizzazioni"/>
+	<buildpathentry exported="true" kind="prj" path="/Circolari"/>
+	<buildpathentry exported="true" kind="prj" path="/EW_Commesse"/>
+	<buildpathentry exported="true" kind="prj" path="/EW_Giornaliera"/>
+	<buildpathentry exported="true" kind="prj" path="/EW_Login"/>
+	<buildpathentry exported="true" kind="prj" path="/EW_Negozio"/>
+	<buildpathentry exported="true" kind="prj" path="/EW_Pannello"/>
+	<buildpathentry exported="true" kind="prj" path="/EW_RP"/>
+	<buildpathentry exported="true" kind="prj" path="/EpiWeb"/>
+	<buildpathentry exported="true" kind="prj" path="/HR"/>
+	<buildpathentry exported="true" kind="prj" path="/MA_FTP"/>
+	<buildpathentry exported="true" kind="prj" path="/MA_NettoLordo"/>
+	<buildpathentry exported="true" kind="prj" path="/MA_Shared"/>
+	<buildpathentry exported="true" kind="prj" path="/Magnacarta"/>
+	<buildpathentry exported="true" kind="prj" path="/PV"/>
+	<buildpathentry exported="true" kind="prj" path="/SW_Main"/>
+	<buildpathentry exported="true" kind="prj" path="/Scadenziario"/>
+	<buildpathentry exported="true" kind="prj" path="/Scheduler_ServiziSoftware"/>
+</buildpath>

@@ -1,0 +1,11 @@
+allowCreationRelatedRecords:true,
+existsInDB:true,
+foreignDataSource:"db:/ma_presenze/e2gestionesmaltrateitesta",
+items:[
+{foreignColumnName:"idgestionesmaltrateitesta",operator:0,primaryDataProviderID:"idgestionesmaltrateitesta",typeid:23,uuid:"B14544E4-43E2-4F13-866E-F4899465BDAE"}
+],
+joinType:0,
+name:"E2GestioneSmaltRateiRighe_to_E2GestioneSmaltRateiTesta",
+primaryDataSource:"db:/ma_presenze/e2gestionesmaltrateirighe",
+typeid:22,
+uuid:"8B95269E-7D56-4CCB-B4AD-B346E01C5E7B"

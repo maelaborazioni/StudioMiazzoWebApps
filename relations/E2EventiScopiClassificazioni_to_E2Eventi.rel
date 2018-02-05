@@ -1,0 +1,11 @@
+allowCreationRelatedRecords:true,
+existsInDB:true,
+foreignDataSource:"db:/ma_presenze/e2eventi",
+items:[
+{foreignColumnName:"idevento",operator:0,primaryDataProviderID:"idevento",typeid:23,uuid:"CECB8EEB-FE58-4E09-84C2-D5954D27AED1"}
+],
+joinType:0,
+name:"E2EventiScopiClassificazioni_to_E2Eventi",
+primaryDataSource:"db:/ma_presenze/e2eventiscopiclassificazioni",
+typeid:22,
+uuid:"B43A25BC-08A5-4A2D-B5EE-C70976021C3B"

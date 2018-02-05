@@ -1,0 +1,11 @@
+allowCreationRelatedRecords:true,
+existsInDB:true,
+foreignDataSource:"db:/ma_presenze/e2eventigruppi",
+items:[
+{foreignColumnName:"idgruppoevento",operator:0,primaryDataProviderID:"idgruppoevento",typeid:23,uuid:"87A861A8-4C05-45E3-953D-6637F208B33B"}
+],
+joinType:0,
+name:"E2Eventi_to_E2EventiGruppi",
+primaryDataSource:"db:/ma_presenze/e2eventi",
+typeid:22,
+uuid:"69AEB0B9-05DE-443E-91E1-2551E4503BDF"

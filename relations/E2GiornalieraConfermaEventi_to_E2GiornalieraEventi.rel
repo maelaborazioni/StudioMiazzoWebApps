@@ -1,0 +1,11 @@
+allowCreationRelatedRecords:true,
+existsInDB:true,
+foreignDataSource:"db:/ma_presenze/e2giornalieraeventi",
+items:[
+{foreignColumnName:"idgiornalieraeventi",operator:0,primaryDataProviderID:"idgiornalieraeventi",typeid:23,uuid:"828A91F6-CCE2-41A7-A58E-BE3DD54D58C2"}
+],
+joinType:0,
+name:"E2GiornalieraConfermaEventi_to_E2GiornalieraEventi",
+primaryDataSource:"db:/ma_presenze/e2giornalieraconfermaeventi",
+typeid:22,
+uuid:"CE801FDB-3C26-4104-AB9A-26D76B51B565"

@@ -1,0 +1,11 @@
+allowCreationRelatedRecords:true,
+existsInDB:true,
+foreignDataSource:"db:/ma_presenze/e2gestionefestivita",
+items:[
+{foreignColumnName:"idgestionefestivita",operator:0,primaryDataProviderID:"idgestionefestivita",typeid:23,uuid:"3C6E1CC4-8557-4528-AB70-7F4F08243451"}
+],
+joinType:0,
+name:"E2GestioneFestivitaRighe_to_E2GestioneFestivita",
+primaryDataSource:"db:/ma_presenze/e2gestionefestivitarighe",
+typeid:22,
+uuid:"91ABA9E9-C7FE-4E59-88F9-94987FF17C60"

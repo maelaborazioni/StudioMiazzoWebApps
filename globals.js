@@ -21,5 +21,5 @@ function ma_StudioMiazzoWebApps_onSolutionOpen(arg, queryParams)
 	queryParams.mainform = 'svy_nav_fr_main';
 	
 	return ma_sec_onSolutionOpen(arg, queryParams);
-
+ 
 }

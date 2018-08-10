@@ -16,6 +16,7 @@
 	<buildpathentry exported="true" kind="prj" path="/MA_Shared"/>
 	<buildpathentry exported="true" kind="prj" path="/Magnacarta"/>
 	<buildpathentry exported="true" kind="prj" path="/PV"/>
+	<buildpathentry exported="true" kind="prj" path="/SEC_Authenticate"/>
 	<buildpathentry exported="true" kind="prj" path="/SW_Main"/>
 	<buildpathentry exported="true" kind="prj" path="/Scadenziario"/>
 	<buildpathentry exported="true" kind="prj" path="/Scheduler_ServiziSoftware"/>

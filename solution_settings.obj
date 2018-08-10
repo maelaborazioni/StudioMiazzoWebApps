@@ -1,7 +1,7 @@
 firstFormID:"-1",
 i18nDataSource:"db:/svy_framework/i18n_messages",
 loginFormID:"-1",
-modulesNames:"MA_Shared,Autorizzazioni,Circolari,EpiWeb,EW_Login,EW_Negozio,EW_Commesse,EW_Giornaliera,EW_Pannello,EW_RP,HR,MA_NettoLordo,Magnacarta,PV,Scadenziario,Scheduler_ServiziSoftware,SW_Main,MA_FTP",
+modulesNames:"MA_Shared,Autorizzazioni,Circolari,EpiWeb,EW_Login,EW_Negozio,EW_Commesse,EW_Giornaliera,EW_Pannello,EW_RP,HR,MA_NettoLordo,Magnacarta,PV,Scadenziario,Scheduler_ServiziSoftware,SW_Main,MA_FTP,SEC_Authenticate",
 onCloseMethodID:"7A5BA424-0891-4A07-A72C-8D7E0C390C1E",
 onErrorMethodID:"-1",
 onOpenMethodID:"14A54AC7-F39D-4738-B864-D64C6805C96E",

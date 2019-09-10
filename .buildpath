@@ -9,6 +9,7 @@
 	<buildpathentry exported="true" kind="prj" path="/EW_Negozio"/>
 	<buildpathentry exported="true" kind="prj" path="/EW_Pannello"/>
 	<buildpathentry exported="true" kind="prj" path="/EW_RP"/>
+	<buildpathentry exported="true" kind="prj" path="/EW_Scheduler"/>
 	<buildpathentry exported="true" kind="prj" path="/EpiWeb"/>
 	<buildpathentry exported="true" kind="prj" path="/HR"/>
 	<buildpathentry exported="true" kind="prj" path="/MA_FTP"/>

@@ -10,7 +10,7 @@
  *
  * @properties={typeid:24,uuid:"14A54AC7-F39D-4738-B864-D64C6805C96E"}
  */
-function ma_StudioMiazzoWebApps_onSolutionOpen(arg, queryParams) 
+function ma_PresenzaSemplice_onSolutionOpen(arg, queryParams) 
 {
 	application.putClientProperty(APP_UI_PROPERTY.TABLEVIEW_WC_USE_KEY_NAVIGATION, true);
 	application.putClientProperty(APP_WEB_PROPERTY.WEBCLIENT_TEMPLATES_DIR, 'red');
